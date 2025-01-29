@@ -5,3 +5,6 @@ wall of shields
 switched to new branch feature
 
 secong commit on this brach
+
+
+learnint non fast-forward merge
