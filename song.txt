@@ -8,3 +8,5 @@ secong commit on this brach
 
 
 learnint non fast-forward merge
+
+learning conflict resolving - master
